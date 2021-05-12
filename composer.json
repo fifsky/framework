@@ -1,0 +1,23 @@
+{
+  "name": "fifsky/framework",
+  "description": "fifsky framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fifsky",
+      "email": "caixudong@verystar.cn"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "monolog/monolog": "~1.17"
+  },
+  "autoload": {
+    "files": [
+      "fifsky/Core/helper.php"
+    ],
+    "psr-4": {
+      "fifsky\\": "fifsky"
+    }
+  }
+}
