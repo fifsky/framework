@@ -1,7 +1,7 @@
 {
   "name": "verysub/framework",
   "description": "fifsky framework",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
