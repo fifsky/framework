@@ -10,7 +10,6 @@
     }
   ],
   "require": {
-    "composer-runtime-api": "^2.0",
     "php": ">=7.1.0",
     "monolog/monolog": "~1.17"
   },
